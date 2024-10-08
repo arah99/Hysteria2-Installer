@@ -262,7 +262,7 @@ auth: $password
 transport:
   type: udp
 tls:
-  sni: bing.com
+  sni: telewebion.com
   insecure: true
 bandwidth:
   up: 100 mbps
